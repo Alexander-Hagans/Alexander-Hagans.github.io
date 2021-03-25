@@ -31,7 +31,7 @@
     });
        
     $("#rsvp-button").click(() => {
-      window.location.href = "https://docs.google.com/forms/d/1tLq8LYyRnXfPVhNtIbObwAyA-zBsFEZT9ouaw_NI9YIz";
+      window.location.href = "https://docs.google.com/forms/d/1tLq8LYyRnXfPVhNtIbObwAyA-zBsFEZT9ouaw_NI9YI";
     })
 
     // Closes responsive menu when a scroll trigger link is clicked
