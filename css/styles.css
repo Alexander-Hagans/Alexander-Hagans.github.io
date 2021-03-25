@@ -10125,7 +10125,7 @@ body {
   font-size: 80%;
   padding: 0.75rem;
   color: #64a19d;
-  border: 1px solid #64a19d;
+  border: 1px solid #DDA0DD;
 }
 #mainNav .navbar-toggler:focus {
   outline: none;
@@ -10182,10 +10182,10 @@ body {
     color: #64a19d;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: #DDA0DD;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #DDA0DD;
     outline: none;
     border-bottom: 0.25rem solid #64a19d;
   }
@@ -10286,7 +10286,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/ring.jpg");
+  background: url("../assets/img/ring.JPG");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10308,7 +10308,7 @@ body {
 }
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #DDA0DD;
 }
 .contact-section .card h4 {
   font-size: 0.8rem;
@@ -10317,7 +10317,7 @@ body {
   letter-spacing: 0.15rem;
 }
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #DDA0DD;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -10328,7 +10328,7 @@ body {
   text-align: center;
   height: 3rem;
   width: 3rem;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(216, 191, 216, 0.1);
   border-radius: 100%;
   line-height: 3rem;
   color: rgba(255, 255, 255, 0.3);
